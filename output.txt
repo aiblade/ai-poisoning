@@ -1,0 +1,19 @@
+                                                                                                                
+    print("Hello")                                                                                              
+
+7[?25l8[0G[2K
+                                                                                                                      
+    print("Hello")                                                                                                    
+
+7[?25l8[0G[2K
+                                                                                                                      
+    def hello():                                                                                                      
+        print("Hello")                                                                                                
+                                                                                                                      
+    hello()                                                                                                           
+
+7[?25l8[0G[2K
+                                                                                                                      
+    print("Hello")                                                                                                    
+
+7[?25l8[0G[2K

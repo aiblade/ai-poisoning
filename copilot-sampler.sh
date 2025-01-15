@@ -43,7 +43,7 @@ while true; do
     pid=$!
 
     # Wait briefly (adjust as needed)
-    sleep 1
+    sleep 5
 
     # Check if output.txt has grown
     new_size=$(stat -c %s output.txt)
