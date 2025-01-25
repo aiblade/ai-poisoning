@@ -20,7 +20,7 @@ I also created output-cleaner.sh to clean the output and write it to a new file,
 
 ## Usage
 
-./copilot-sampler.sh "<PROMPT>"
+./copilot-sampler.sh "PROMPT"
 
 ./output-cleaner.sh
 
